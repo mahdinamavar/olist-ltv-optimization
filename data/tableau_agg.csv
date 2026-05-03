@@ -1,0 +1,7 @@
+segment,customer_count,total_revenue,avg_ltv,avg_recency,avg_order_value
+At Risk,13164,3205790.21,243.99,393.5,232.38
+Champions,6492,2026452.22,311.43,91.12,281.55
+Lost,14986,2442065.65,162.08,395.51,162.96
+Loyal Customers,14207,2942330.64,207.1,153.23,199.78
+Potential Loyalists,29520,2356364.75,79.8,236.28,79.61
+Recent Customers,14980,2448079.38,163.34,90.89,163.42
